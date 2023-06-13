@@ -8,10 +8,10 @@ High-resolution Output: The generated posters are of high quality and resolution
 Versatile and Customizable: The AI can generate posters for a wide range of topics, styles, and color schemes, and it can be further customized to meet specific design preferences.
 
 ## Getting Started
-Install the required dependencies mentioned in the requirements.txt file.
-Run the poster_generator.py script and provide the desired prompt text.
-Wait for the AI to generate the corresponding poster image.
-Save and utilize the generated poster for your creative projects or presentations.
+1.Install the required dependencies mentioned in the requirements.txt file.
+2.Run the poster_generator.py script and provide the desired prompt text.
+3.Wait for the AI to generate the corresponding poster image.
+4.Save and utilize the generated poster for your creative projects or presentations.
 
 Please note that the AI model requires a compatible GPU and adequate computing resources to run efficiently.
 
